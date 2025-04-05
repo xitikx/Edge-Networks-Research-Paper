@@ -6,7 +6,7 @@ This paper presents an innovative *AI-driven framework* tailored for *railway ma
 ## 👨‍💻 Authors  
 - *Kartikey Pandey*  
 - *Ritika Sharma*  
-- *Richa Golash*  
+- *Dr. Richa Golash*  
 
 ## 📄 Link to Paper  
 You can find the paper here: [*Read the Paper*](https://drive.google.com/file/d/1iiJeQl5j4VptUNr2Ywl3YS-0uH7BTfac/view?usp=sharing)  
