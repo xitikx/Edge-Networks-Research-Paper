@@ -26,5 +26,5 @@ You can find the paper here: [*Read the Paper*](https://drive.google.com/file/d/
 
 ## 📬 Contact Information  
 For any queries or collaborations, feel free to reach out:  
-📧 *kartikeyy.pandeyy@gmail.com* 
-📧 *ritikagccp@gmail.com*
+📧 *ritikagccp@gmail.com* 
+📧 *kartikeyy.pandeyy@gmail.com*
